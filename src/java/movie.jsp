@@ -47,9 +47,7 @@
 
         </script>
     </head>
-    <body>
-        <input type="button" value="test"onclick="getDatda(null,null,'ACADEMY DINOSAUR','title');"> 
-               
-               <div id="results"></div>
+    <body>   
+          <div id="results"></div>
     </body>
 </html>
